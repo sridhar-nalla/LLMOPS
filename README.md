@@ -23,10 +23,20 @@ create .gitignore and edit it by adding the following lines:
 venv/
 '''
 
+# Add files to git, commit, push, and sync
+
+'''
+git add .
+git commit -m "Your commit message"
+git push
+git pull
+'''
+
 '''
 git commit -m "Initial commit"
 '''
 
 '''
-git push
+git push -u origin main
+git merge origin main
 '''
