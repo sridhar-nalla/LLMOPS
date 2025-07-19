@@ -23,6 +23,7 @@ create .gitignore and edit it by adding the following lines:
 venv/
 '''
 
+<<<<<<< HEAD
 # Add files to git, commit, push, and sync
 
 '''
@@ -33,10 +34,16 @@ git push
 git pull
 '''
 
+=======
+>>>>>>> aa168c57d1b40c84703e88164dc71b4d5992f2f6
 '''
 git commit -m "Initial commit"
 '''
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> aa168c57d1b40c84703e88164dc71b4d5992f2f6
 '''
 git push -u origin main
 git merge origin main
