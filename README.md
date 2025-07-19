@@ -2,7 +2,8 @@
 
 '''
 python3 -m venv venv
-
+'''
+'''
 source venv/bin/activate
 '''
 
@@ -17,8 +18,10 @@ pip install -r requirements.txt
 '''
 create .gitignore and edit it by adding the following lines:
 venv/
-
+'''
+'''
 git commit -m "Initial commit"
-
+'''
+'''
 git push
 '''
